@@ -1,0 +1,12 @@
+______________________________________
+
+The SQLAlchemy requires (4) things :
+______________________________________
+
+1. Configuration Code (a python file database_setup.py which will import all the neccessary modules)
+2. Class Code (which we will use to represent our Data in Python)
+3. Table Code (which will represent a specific Table in our Database)
+4. Mapper Code (which will connect the Columns of our table to the Classes that reprents it)
+
+
+--------------------------------------
